@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_menu_field_staff,access.field_force.field_staff,model_field_force_field_staff,,1,1,1,1
